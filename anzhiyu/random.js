@@ -1,0 +1,1 @@
+var posts=["2023/08/30/SpringIoc/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
